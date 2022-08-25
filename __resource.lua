@@ -6,8 +6,7 @@ description 'A simple dimensions Script'
 version '1.0'
 
 dependencies {
-    'es_extended',
-    'essentialmode'
+    'es_extended'
 }
 
 client_scripts {
